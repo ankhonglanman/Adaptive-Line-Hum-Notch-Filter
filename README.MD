@@ -9,6 +9,7 @@ Và nhiễu có tần số thay đổi trong khoảng quy định tại khoản 
 ## Cài đặt
 ```bash
 # Yêu cầu: MATLAB R2025, Signal Processing Toolbox License
-git clone https://github.com/your/repo.git
 cd repo
+git clone https://github.com/ankhonglanman/Adaptive-Line-Hum-Notch-Filter
+
 <lệnh cài đặt>
