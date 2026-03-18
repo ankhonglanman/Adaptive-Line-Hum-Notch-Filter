@@ -5,8 +5,3 @@ Có thể lựa chọn lọc nhiễu multitone với các tần số hài bậc 
 Và nhiễu có tần số thay đổi trong khoảng quy định tại khoản 1 Điều 4 Thông tư 05/2025/TT-BCT về tần số lưới điện Việt Nam, tần số dao động trong trường hợp xấu nhất là +-2.5hz.
 
 # Yêu cầu: MATLAB R2025, Signal Processing Toolbox License
-<Lệnh cài đặt>
-~~~~
-cd repo
-git clone https://github.com/ankhonglanman/Adaptive-Line-Hum-Notch-Filter
-~~~~
